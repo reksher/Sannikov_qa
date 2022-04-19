@@ -8,3 +8,5 @@
 
 
 ---
+
+[Пример моего тест-плана](https://docs.google.com/document/d/1PdbK5LIw2YFNS-loMzWeZEMEOXTN8oxl/edit?usp=sharing&ouid=102530289724337519429&rtpof=true&sd=true)
